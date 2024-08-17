@@ -1,0 +1,11 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30
+    },
+    "invisible": {
+      "enable_vsync": true,
+      "run_garbage_collector": true
+    }
+  }
+}
